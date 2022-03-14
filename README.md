@@ -1,2 +1,2 @@
-# geekbrains
+# GeekBrains
 # Домашние задания по курсу GB IOS разработка
